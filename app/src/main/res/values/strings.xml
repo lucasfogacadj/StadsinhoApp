@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StadsinhoApp</string>
+    <string name="nome_t">Titulo do Trabalho</string>
+    <string name="data_E">Data para a Entrega</string>
+    <string name="data_c">Data em que foi entregue</string>
+    <string name="anotacoes">Anotacões</string>
+    <string name="btnSalvar">Salvar</string>
+</resources>
